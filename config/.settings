@@ -1,0 +1,17 @@
+{
+    "projectName": "Payrolls",
+    "username": "aherrera@altimetrik.com",
+    "id": "4285c3e0-ac2c-11e6-b0a5-ed78be248b83",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na35.salesforce.com",
+    "workspace": "/Users/aherrera/Documents",
+    "subscription": [
+        "CustomApplication",
+        "CustomApplicationComponent",
+        "CustomObject",
+        "CustomTab",
+        "EmailTemplate"
+    ]
+}
